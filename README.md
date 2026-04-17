@@ -23,6 +23,8 @@ Purchase behavior based on loyalty card usage
 
 Designed a fully interactive dashboard using slicers and dynamic charts, allowing users to filter by year, country, and product attributes for quick and intuitive analysis.
 
+<img width="521" height="260" alt="Image" src="https://github.com/user-attachments/assets/776cca2f-fa3e-40e8-bdef-03c4fb73133c" />
+
 **📊 Key Insights**
 
 Geographic concentration: United States is the clear revenue leader (~2054.42), while Ireland (~112.23) and the United Kingdom (~44.87) are much smaller contributors.
